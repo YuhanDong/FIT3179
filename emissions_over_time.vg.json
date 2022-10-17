@@ -17,7 +17,6 @@
         "field": "continent",
         "type": "nominal",
         "scale": {"scheme": "set1"},
-        "legend": null
       }
     }
   }
