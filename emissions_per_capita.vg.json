@@ -13,7 +13,7 @@
         "lookup": "properties.NAME",
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/YuhanDong/FIT3179/main/fit3179%20a2-b.csv"
+            "url": "data/country.csv"
           },
           "key": "iso_code",
           "fields": ["co2"]
