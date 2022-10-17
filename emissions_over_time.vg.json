@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
     "title": "Emissions over Time",
-    "width": 1155,
+    "width": 1055,
     "height": 400,
     "data": {"url": "data/continent_time.json"},
     "mark": {"type": "area", "tooltip": true},
@@ -16,7 +16,7 @@
       "color": {
         "field": "continent",
         "type": "nominal",
-        "scale": {"scheme": "set1"},
+        "scale": {"scheme": "set1"}
       }
     }
   }
