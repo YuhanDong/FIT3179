@@ -1,0 +1,4112 @@
+[
+ {
+   "continent": "Asia",
+   "year": 1884,
+   "emissions": 8217833
+ },
+ {
+   "continent": "Asia",
+   "year": 1885,
+   "emissions": 8567155
+ },
+ {
+   "continent": "Asia",
+   "year": 1886,
+   "emissions": 9143532
+ },
+ {
+   "continent": "Asia",
+   "year": 1887,
+   "emissions": 10569025
+ },
+ {
+   "continent": "Asia",
+   "year": 1888,
+   "emissions": 11750825
+ },
+ {
+   "continent": "Asia",
+   "year": 1889,
+   "emissions": 13819326
+ },
+ {
+   "continent": "Asia",
+   "year": 1890,
+   "emissions": 15128221
+ },
+ {
+   "continent": "Asia",
+   "year": 1891,
+   "emissions": 17249326
+ },
+ {
+   "continent": "Asia",
+   "year": 1892,
+   "emissions": 18323509
+ },
+ {
+   "continent": "Asia",
+   "year": 1893,
+   "emissions": 20470128
+ },
+ {
+   "continent": "Asia",
+   "year": 1894,
+   "emissions": 22806617
+ },
+ {
+   "continent": "Asia",
+   "year": 1895,
+   "emissions": 26372374
+ },
+ {
+   "continent": "Asia",
+   "year": 1896,
+   "emissions": 28100072
+ },
+ {
+   "continent": "Asia",
+   "year": 1897,
+   "emissions": 30567185
+ },
+ {
+   "continent": "Asia",
+   "year": 1898,
+   "emissions": 36578548
+ },
+ {
+   "continent": "Asia",
+   "year": 1899,
+   "emissions": 38846373
+ },
+ {
+   "continent": "Asia",
+   "year": 1900,
+   "emissions": 44119427
+ },
+ {
+   "continent": "Asia",
+   "year": 1901,
+   "emissions": 50483996
+ },
+ {
+   "continent": "Asia",
+   "year": 1902,
+   "emissions": 52619952
+ },
+ {
+   "continent": "Asia",
+   "year": 1903,
+   "emissions": 57142089
+ },
+ {
+   "continent": "Asia",
+   "year": 1904,
+   "emissions": 64124574
+ },
+ {
+   "continent": "Asia",
+   "year": 1905,
+   "emissions": 65417968
+ },
+ {
+   "continent": "Asia",
+   "year": 1906,
+   "emissions": 87527399
+ },
+ {
+   "continent": "Asia",
+   "year": 1907,
+   "emissions": 94294143
+ },
+ {
+   "continent": "Asia",
+   "year": 1908,
+   "emissions": 106136979
+ },
+ {
+   "continent": "Asia",
+   "year": 1909,
+   "emissions": 105951259
+ },
+ {
+   "continent": "Asia",
+   "year": 1910,
+   "emissions": 104674490
+ },
+ {
+   "continent": "Asia",
+   "year": 1911,
+   "emissions": 121138630
+ },
+ {
+   "continent": "Asia",
+   "year": 1912,
+   "emissions": 112716931
+ },
+ {
+   "continent": "Asia",
+   "year": 1913,
+   "emissions": 124070544
+ },
+ {
+   "continent": "Asia",
+   "year": 1914,
+   "emissions": 131447642
+ },
+ {
+   "continent": "Asia",
+   "year": 1915,
+   "emissions": 127501520
+ },
+ {
+   "continent": "Asia",
+   "year": 1916,
+   "emissions": 137918471
+ },
+ {
+   "continent": "Asia",
+   "year": 1917,
+   "emissions": 149998088
+ },
+ {
+   "continent": "Asia",
+   "year": 1918,
+   "emissions": 153275470
+ },
+ {
+   "continent": "Asia",
+   "year": 1919,
+   "emissions": 169919363
+ },
+ {
+   "continent": "Asia",
+   "year": 1920,
+   "emissions": 162005900
+ },
+ {
+   "continent": "Asia",
+   "year": 1921,
+   "emissions": 158416551
+ },
+ {
+   "continent": "Asia",
+   "year": 1922,
+   "emissions": 168042985
+ },
+ {
+   "continent": "Asia",
+   "year": 1923,
+   "emissions": 184953905
+ },
+ {
+   "continent": "Asia",
+   "year": 1924,
+   "emissions": 199653142
+ },
+ {
+   "continent": "Asia",
+   "year": 1925,
+   "emissions": 202835344
+ },
+ {
+   "continent": "Asia",
+   "year": 1926,
+   "emissions": 204900951
+ },
+ {
+   "continent": "Asia",
+   "year": 1927,
+   "emissions": 224699438
+ },
+ {
+   "continent": "Asia",
+   "year": 1928,
+   "emissions": 235121388
+ },
+ {
+   "continent": "Asia",
+   "year": 1929,
+   "emissions": 246093757
+ },
+ {
+   "continent": "Asia",
+   "year": 1930,
+   "emissions": 246557694
+ },
+ {
+   "continent": "Asia",
+   "year": 1931,
+   "emissions": 237337417
+ },
+ {
+   "continent": "Asia",
+   "year": 1932,
+   "emissions": 237432769
+ },
+ {
+   "continent": "Asia",
+   "year": 1933,
+   "emissions": 261528881
+ },
+ {
+   "continent": "Asia",
+   "year": 1934,
+   "emissions": 296937540
+ },
+ {
+   "continent": "Asia",
+   "year": 1935,
+   "emissions": 322726372
+ },
+ {
+   "continent": "Asia",
+   "year": 1936,
+   "emissions": 354201472
+ },
+ {
+   "continent": "Asia",
+   "year": 1937,
+   "emissions": 375599676
+ },
+ {
+   "continent": "Asia",
+   "year": 1938,
+   "emissions": 389285021
+ },
+ {
+   "continent": "Asia",
+   "year": 1939,
+   "emissions": 412157752
+ },
+ {
+   "continent": "Asia",
+   "year": 1940,
+   "emissions": 467790981
+ },
+ {
+   "continent": "Asia",
+   "year": 1941,
+   "emissions": 472586208
+ },
+ {
+   "continent": "Asia",
+   "year": 1942,
+   "emissions": 433908067
+ },
+ {
+   "continent": "Asia",
+   "year": 1943,
+   "emissions": 428679468
+ },
+ {
+   "continent": "Asia",
+   "year": 1944,
+   "emissions": 435865250
+ },
+ {
+   "continent": "Asia",
+   "year": 1945,
+   "emissions": 323129099
+ },
+ {
+   "continent": "Asia",
+   "year": 1946,
+   "emissions": 311410444
+ },
+ {
+   "continent": "Asia",
+   "year": 1947,
+   "emissions": 372868560
+ },
+ {
+   "continent": "Asia",
+   "year": 1948,
+   "emissions": 370219312
+ },
+ {
+   "continent": "Asia",
+   "year": 1949,
+   "emissions": 456735655
+ },
+ {
+   "continent": "Asia",
+   "year": 1950,
+   "emissions": 476121837
+ },
+ {
+   "continent": "Asia",
+   "year": 1951,
+   "emissions": 456067222
+ },
+ {
+   "continent": "Asia",
+   "year": 1952,
+   "emissions": 505794625
+ },
+ {
+   "continent": "Asia",
+   "year": 1953,
+   "emissions": 541411695
+ },
+ {
+   "continent": "Asia",
+   "year": 1954,
+   "emissions": 593297587
+ },
+ {
+   "continent": "Asia",
+   "year": 1955,
+   "emissions": 676212146
+ },
+ {
+   "continent": "Asia",
+   "year": 1956,
+   "emissions": 750836884
+ },
+ {
+   "continent": "Asia",
+   "year": 1957,
+   "emissions": 845232786
+ },
+ {
+   "continent": "Asia",
+   "year": 1958,
+   "emissions": 1139732611
+ },
+ {
+   "continent": "Asia",
+   "year": 1959,
+   "emissions": 1375521891
+ },
+ {
+   "continent": "Asia",
+   "year": 1960,
+   "emissions": 1540394483
+ },
+ {
+   "continent": "Asia",
+   "year": 1961,
+   "emissions": 1395308133
+ },
+ {
+   "continent": "Asia",
+   "year": 1962,
+   "emissions": 1344445545
+ },
+ {
+   "continent": "Asia",
+   "year": 1963,
+   "emissions": 1425118416
+ },
+ {
+   "continent": "Asia",
+   "year": 1964,
+   "emissions": 1509494689
+ },
+ {
+   "continent": "Asia",
+   "year": 1965,
+   "emissions": 1652064447
+ },
+ {
+   "continent": "Asia",
+   "year": 1966,
+   "emissions": 1799358286
+ },
+ {
+   "continent": "Asia",
+   "year": 1967,
+   "emissions": 1827449007
+ },
+ {
+   "continent": "Asia",
+   "year": 1968,
+   "emissions": 2018387350
+ },
+ {
+   "continent": "Asia",
+   "year": 1969,
+   "emissions": 2291939814
+ },
+ {
+   "continent": "Asia",
+   "year": 1970,
+   "emissions": 2699300836
+ },
+ {
+   "continent": "Asia",
+   "year": 1971,
+   "emissions": 2953833259
+ },
+ {
+   "continent": "Asia",
+   "year": 1972,
+   "emissions": 3124009857
+ },
+ {
+   "continent": "Asia",
+   "year": 1973,
+   "emissions": 3355519482
+ },
+ {
+   "continent": "Asia",
+   "year": 1974,
+   "emissions": 3415347407
+ },
+ {
+   "continent": "Asia",
+   "year": 1975,
+   "emissions": 3581002878
+ },
+ {
+   "continent": "Asia",
+   "year": 1976,
+   "emissions": 3806119266
+ },
+ {
+   "continent": "Asia",
+   "year": 1977,
+   "emissions": 4050961252
+ },
+ {
+   "continent": "Asia",
+   "year": 1978,
+   "emissions": 4232254059
+ },
+ {
+   "continent": "Asia",
+   "year": 1979,
+   "emissions": 4405939806
+ },
+ {
+   "continent": "Asia",
+   "year": 1980,
+   "emissions": 4400904783
+ },
+ {
+   "continent": "Asia",
+   "year": 1981,
+   "emissions": 4374459208
+ },
+ {
+   "continent": "Asia",
+   "year": 1982,
+   "emissions": 4524213069
+ },
+ {
+   "continent": "Asia",
+   "year": 1983,
+   "emissions": 4706386594
+ },
+ {
+   "continent": "Asia",
+   "year": 1984,
+   "emissions": 4980670654
+ },
+ {
+   "continent": "Asia",
+   "year": 1985,
+   "emissions": 5272290607
+ },
+ {
+   "continent": "Asia",
+   "year": 1986,
+   "emissions": 5498752809
+ },
+ {
+   "continent": "Asia",
+   "year": 1987,
+   "emissions": 5735493718
+ },
+ {
+   "continent": "Asia",
+   "year": 1988,
+   "emissions": 6205031052
+ },
+ {
+   "continent": "Asia",
+   "year": 1989,
+   "emissions": 6421483079
+ },
+ {
+   "continent": "Asia",
+   "year": 1990,
+   "emissions": 6625837983
+ },
+ {
+   "continent": "Asia",
+   "year": 1991,
+   "emissions": 6956347159
+ },
+ {
+   "continent": "Asia",
+   "year": 1992,
+   "emissions": 7269585454
+ },
+ {
+   "continent": "Asia",
+   "year": 1993,
+   "emissions": 7600515327
+ },
+ {
+   "continent": "Asia",
+   "year": 1994,
+   "emissions": 7931294332
+ },
+ {
+   "continent": "Asia",
+   "year": 1995,
+   "emissions": 8251608613
+ },
+ {
+   "continent": "Asia",
+   "year": 1996,
+   "emissions": 8579100358
+ },
+ {
+   "continent": "Asia",
+   "year": 1997,
+   "emissions": 8691038455
+ },
+ {
+   "continent": "Asia",
+   "year": 1998,
+   "emissions": 8421433438
+ },
+ {
+   "continent": "Asia",
+   "year": 1999,
+   "emissions": 8678316711
+ },
+ {
+   "continent": "Asia",
+   "year": 2000,
+   "emissions": 9091054959
+ },
+ {
+   "continent": "Asia",
+   "year": 2001,
+   "emissions": 9259171838
+ },
+ {
+   "continent": "Asia",
+   "year": 2002,
+   "emissions": 9779534328
+ },
+ {
+   "continent": "Asia",
+   "year": 2003,
+   "emissions": 10716110297
+ },
+ {
+   "continent": "Asia",
+   "year": 2004,
+   "emissions": 11681500681
+ },
+ {
+   "continent": "Asia",
+   "year": 2005,
+   "emissions": 12522218780
+ },
+ {
+   "continent": "Asia",
+   "year": 2006,
+   "emissions": 13363127459
+ },
+ {
+   "continent": "Asia",
+   "year": 2007,
+   "emissions": 14080908201
+ },
+ {
+   "continent": "Asia",
+   "year": 2008,
+   "emissions": 14811211177
+ },
+ {
+   "continent": "Asia",
+   "year": 2009,
+   "emissions": 15412299488
+ },
+ {
+   "continent": "Asia",
+   "year": 2010,
+   "emissions": 16530950685
+ },
+ {
+   "continent": "Asia",
+   "year": 2011,
+   "emissions": 17746631804
+ },
+ {
+   "continent": "Asia",
+   "year": 2012,
+   "emissions": 18456299828
+ },
+ {
+   "continent": "Asia",
+   "year": 2013,
+   "emissions": 18714335123
+ },
+ {
+   "continent": "Asia",
+   "year": 2014,
+   "emissions": 19018801891
+ },
+ {
+   "continent": "Asia",
+   "year": 2015,
+   "emissions": 19135910319
+ },
+ {
+   "continent": "Asia",
+   "year": 2016,
+   "emissions": 19218166352
+ },
+ {
+   "continent": "Asia",
+   "year": 2017,
+   "emissions": 19653512867
+ },
+ {
+   "continent": "Asia",
+   "year": 2018,
+   "emissions": 20254370026
+ },
+ {
+   "continent": "Asia",
+   "year": 2019,
+   "emissions": 20608592701
+ },
+ {
+   "continent": "Asia",
+   "year": 2020,
+   "emissions": 20317058379
+ },
+ {
+   "continent": "Oceania",
+   "year": 1884,
+   "emissions": 3631024
+ },
+ {
+   "continent": "Oceania",
+   "year": 1885,
+   "emissions": 4034064
+ },
+ {
+   "continent": "Oceania",
+   "year": 1886,
+   "emissions": 4067040
+ },
+ {
+   "continent": "Oceania",
+   "year": 1887,
+   "emissions": 4272224
+ },
+ {
+   "continent": "Oceania",
+   "year": 1888,
+   "emissions": 4891440
+ },
+ {
+   "continent": "Oceania",
+   "year": 1889,
+   "emissions": 4737552
+ },
+ {
+   "continent": "Oceania",
+   "year": 1890,
+   "emissions": 4968384
+ },
+ {
+   "continent": "Oceania",
+   "year": 1891,
+   "emissions": 5499664
+ },
+ {
+   "continent": "Oceania",
+   "year": 1892,
+   "emissions": 5653552
+ },
+ {
+   "continent": "Oceania",
+   "year": 1893,
+   "emissions": 5506992
+ },
+ {
+   "continent": "Oceania",
+   "year": 1894,
+   "emissions": 5968656
+ },
+ {
+   "continent": "Oceania",
+   "year": 1895,
+   "emissions": 6214144
+ },
+ {
+   "continent": "Oceania",
+   "year": 1896,
+   "emissions": 6272768
+ },
+ {
+   "continent": "Oceania",
+   "year": 1897,
+   "emissions": 6851680
+ },
+ {
+   "continent": "Oceania",
+   "year": 1898,
+   "emissions": 7635776
+ },
+ {
+   "continent": "Oceania",
+   "year": 1899,
+   "emissions": 7961872
+ },
+ {
+   "continent": "Oceania",
+   "year": 1900,
+   "emissions": 12607824
+ },
+ {
+   "continent": "Oceania",
+   "year": 1901,
+   "emissions": 14179680
+ },
+ {
+   "continent": "Oceania",
+   "year": 1902,
+   "emissions": 14436160
+ },
+ {
+   "continent": "Oceania",
+   "year": 1903,
+   "emissions": 14388528
+ },
+ {
+   "continent": "Oceania",
+   "year": 1904,
+   "emissions": 14978432
+ },
+ {
+   "continent": "Oceania",
+   "year": 1905,
+   "emissions": 15586656
+ },
+ {
+   "continent": "Oceania",
+   "year": 1906,
+   "emissions": 18221072
+ },
+ {
+   "continent": "Oceania",
+   "year": 1907,
+   "emissions": 19562096
+ },
+ {
+   "continent": "Oceania",
+   "year": 1908,
+   "emissions": 20906784
+ },
+ {
+   "continent": "Oceania",
+   "year": 1909,
+   "emissions": 18818304
+ },
+ {
+   "continent": "Oceania",
+   "year": 1910,
+   "emissions": 22339408
+ },
+ {
+   "continent": "Oceania",
+   "year": 1911,
+   "emissions": 23848976
+ },
+ {
+   "continent": "Oceania",
+   "year": 1912,
+   "emissions": 25648000
+ },
+ {
+   "continent": "Oceania",
+   "year": 1913,
+   "emissions": 26604304
+ },
+ {
+   "continent": "Oceania",
+   "year": 1914,
+   "emissions": 29561152
+ },
+ {
+   "continent": "Oceania",
+   "year": 1915,
+   "emissions": 26725216
+ },
+ {
+   "continent": "Oceania",
+   "year": 1916,
+   "emissions": 24310640
+ },
+ {
+   "continent": "Oceania",
+   "year": 1917,
+   "emissions": 25376864
+ },
+ {
+   "continent": "Oceania",
+   "year": 1918,
+   "emissions": 27483664
+ },
+ {
+   "continent": "Oceania",
+   "year": 1919,
+   "emissions": 25867840
+ },
+ {
+   "continent": "Oceania",
+   "year": 1920,
+   "emissions": 29290016
+ },
+ {
+   "continent": "Oceania",
+   "year": 1921,
+   "emissions": 26651936
+ },
+ {
+   "continent": "Oceania",
+   "year": 1922,
+   "emissions": 27905024
+ },
+ {
+   "continent": "Oceania",
+   "year": 1923,
+   "emissions": 28685456
+ },
+ {
+   "continent": "Oceania",
+   "year": 1924,
+   "emissions": 31059728
+ },
+ {
+   "continent": "Oceania",
+   "year": 1925,
+   "emissions": 32323808
+ },
+ {
+   "continent": "Oceania",
+   "year": 1926,
+   "emissions": 32125952
+ },
+ {
+   "continent": "Oceania",
+   "year": 1927,
+   "emissions": 33390032
+ },
+ {
+   "continent": "Oceania",
+   "year": 1928,
+   "emissions": 31000847
+ },
+ {
+   "continent": "Oceania",
+   "year": 1929,
+   "emissions": 28546174
+ },
+ {
+   "continent": "Oceania",
+   "year": 1930,
+   "emissions": 26893798
+ },
+ {
+   "continent": "Oceania",
+   "year": 1931,
+   "emissions": 23784460
+ },
+ {
+   "continent": "Oceania",
+   "year": 1932,
+   "emissions": 23880348
+ },
+ {
+   "continent": "Oceania",
+   "year": 1933,
+   "emissions": 25125693
+ },
+ {
+   "continent": "Oceania",
+   "year": 1934,
+   "emissions": 26679554
+ },
+ {
+   "continent": "Oceania",
+   "year": 1935,
+   "emissions": 29378853
+ },
+ {
+   "continent": "Oceania",
+   "year": 1936,
+   "emissions": 31225003
+ },
+ {
+   "continent": "Oceania",
+   "year": 1937,
+   "emissions": 33236124
+ },
+ {
+   "continent": "Oceania",
+   "year": 1938,
+   "emissions": 32281157
+ },
+ {
+   "continent": "Oceania",
+   "year": 1939,
+   "emissions": 36603309
+ },
+ {
+   "continent": "Oceania",
+   "year": 1940,
+   "emissions": 33796657
+ },
+ {
+   "continent": "Oceania",
+   "year": 1941,
+   "emissions": 39545532
+ },
+ {
+   "continent": "Oceania",
+   "year": 1942,
+   "emissions": 41597877
+ },
+ {
+   "continent": "Oceania",
+   "year": 1943,
+   "emissions": 40360099
+ },
+ {
+   "continent": "Oceania",
+   "year": 1944,
+   "emissions": 39678416
+ },
+ {
+   "continent": "Oceania",
+   "year": 1945,
+   "emissions": 38314307
+ },
+ {
+   "continent": "Oceania",
+   "year": 1946,
+   "emissions": 40952299
+ },
+ {
+   "continent": "Oceania",
+   "year": 1947,
+   "emissions": 43465180
+ },
+ {
+   "continent": "Oceania",
+   "year": 1948,
+   "emissions": 43922526
+ },
+ {
+   "continent": "Oceania",
+   "year": 1949,
+   "emissions": 43255470
+ },
+ {
+   "continent": "Oceania",
+   "year": 1950,
+   "emissions": 63714413
+ },
+ {
+   "continent": "Oceania",
+   "year": 1951,
+   "emissions": 67686754
+ },
+ {
+   "continent": "Oceania",
+   "year": 1952,
+   "emissions": 70254297
+ },
+ {
+   "continent": "Oceania",
+   "year": 1953,
+   "emissions": 68666774
+ },
+ {
+   "continent": "Oceania",
+   "year": 1954,
+   "emissions": 77700743
+ },
+ {
+   "continent": "Oceania",
+   "year": 1955,
+   "emissions": 81151547
+ },
+ {
+   "continent": "Oceania",
+   "year": 1956,
+   "emissions": 84276196
+ },
+ {
+   "continent": "Oceania",
+   "year": 1957,
+   "emissions": 86297625
+ },
+ {
+   "continent": "Oceania",
+   "year": 1958,
+   "emissions": 88946073
+ },
+ {
+   "continent": "Oceania",
+   "year": 1959,
+   "emissions": 95053307
+ },
+ {
+   "continent": "Oceania",
+   "year": 1960,
+   "emissions": 100973380
+ },
+ {
+   "continent": "Oceania",
+   "year": 1961,
+   "emissions": 103676995
+ },
+ {
+   "continent": "Oceania",
+   "year": 1962,
+   "emissions": 107208883
+ },
+ {
+   "continent": "Oceania",
+   "year": 1963,
+   "emissions": 114488152
+ },
+ {
+   "continent": "Oceania",
+   "year": 1964,
+   "emissions": 124048756
+ },
+ {
+   "continent": "Oceania",
+   "year": 1965,
+   "emissions": 136725214
+ },
+ {
+   "continent": "Oceania",
+   "year": 1966,
+   "emissions": 136762210
+ },
+ {
+   "continent": "Oceania",
+   "year": 1967,
+   "emissions": 145474846
+ },
+ {
+   "continent": "Oceania",
+   "year": 1968,
+   "emissions": 151161138
+ },
+ {
+   "continent": "Oceania",
+   "year": 1969,
+   "emissions": 159429093
+ },
+ {
+   "continent": "Oceania",
+   "year": 1970,
+   "emissions": 165832813
+ },
+ {
+   "continent": "Oceania",
+   "year": 1971,
+   "emissions": 172156168
+ },
+ {
+   "continent": "Oceania",
+   "year": 1972,
+   "emissions": 177757861
+ },
+ {
+   "continent": "Oceania",
+   "year": 1973,
+   "emissions": 194305177
+ },
+ {
+   "continent": "Oceania",
+   "year": 1974,
+   "emissions": 196740328
+ },
+ {
+   "continent": "Oceania",
+   "year": 1975,
+   "emissions": 199435004
+ },
+ {
+   "continent": "Oceania",
+   "year": 1976,
+   "emissions": 198480865
+ },
+ {
+   "continent": "Oceania",
+   "year": 1977,
+   "emissions": 213266231
+ },
+ {
+   "continent": "Oceania",
+   "year": 1978,
+   "emissions": 224620093
+ },
+ {
+   "continent": "Oceania",
+   "year": 1979,
+   "emissions": 226513268
+ },
+ {
+   "continent": "Oceania",
+   "year": 1980,
+   "emissions": 243555227
+ },
+ {
+   "continent": "Oceania",
+   "year": 1981,
+   "emissions": 252122044
+ },
+ {
+   "continent": "Oceania",
+   "year": 1982,
+   "emissions": 257191421
+ },
+ {
+   "continent": "Oceania",
+   "year": 1983,
+   "emissions": 247750357
+ },
+ {
+   "continent": "Oceania",
+   "year": 1984,
+   "emissions": 260633525
+ },
+ {
+   "continent": "Oceania",
+   "year": 1985,
+   "emissions": 268324406
+ },
+ {
+   "continent": "Oceania",
+   "year": 1986,
+   "emissions": 268056450
+ },
+ {
+   "continent": "Oceania",
+   "year": 1987,
+   "emissions": 285610352
+ },
+ {
+   "continent": "Oceania",
+   "year": 1988,
+   "emissions": 291932082
+ },
+ {
+   "continent": "Oceania",
+   "year": 1989,
+   "emissions": 308604456
+ },
+ {
+   "continent": "Oceania",
+   "year": 1990,
+   "emissions": 310806408
+ },
+ {
+   "continent": "Oceania",
+   "year": 1991,
+   "emissions": 314080448
+ },
+ {
+   "continent": "Oceania",
+   "year": 1992,
+   "emissions": 320499727
+ },
+ {
+   "continent": "Oceania",
+   "year": 1993,
+   "emissions": 325386130
+ },
+ {
+   "continent": "Oceania",
+   "year": 1994,
+   "emissions": 334462937
+ },
+ {
+   "continent": "Oceania",
+   "year": 1995,
+   "emissions": 342543664
+ },
+ {
+   "continent": "Oceania",
+   "year": 1996,
+   "emissions": 352408520
+ },
+ {
+   "continent": "Oceania",
+   "year": 1997,
+   "emissions": 365180052
+ },
+ {
+   "continent": "Oceania",
+   "year": 1998,
+   "emissions": 375643730
+ },
+ {
+   "continent": "Oceania",
+   "year": 1999,
+   "emissions": 385044934
+ },
+ {
+   "continent": "Oceania",
+   "year": 2000,
+   "emissions": 391609448
+ },
+ {
+   "continent": "Oceania",
+   "year": 2001,
+   "emissions": 402960130
+ },
+ {
+   "continent": "Oceania",
+   "year": 2002,
+   "emissions": 410452456
+ },
+ {
+   "continent": "Oceania",
+   "year": 2003,
+   "emissions": 419239575
+ },
+ {
+   "continent": "Oceania",
+   "year": 2004,
+   "emissions": 433075344
+ },
+ {
+   "continent": "Oceania",
+   "year": 2005,
+   "emissions": 435514013
+ },
+ {
+   "continent": "Oceania",
+   "year": 2006,
+   "emissions": 445148448
+ },
+ {
+   "continent": "Oceania",
+   "year": 2007,
+   "emissions": 450934284
+ },
+ {
+   "continent": "Oceania",
+   "year": 2008,
+   "emissions": 458011016
+ },
+ {
+   "continent": "Oceania",
+   "year": 2009,
+   "emissions": 447206249
+ },
+ {
+   "continent": "Oceania",
+   "year": 2010,
+   "emissions": 451189137
+ },
+ {
+   "continent": "Oceania",
+   "year": 2011,
+   "emissions": 451908773
+ },
+ {
+   "continent": "Oceania",
+   "year": 2012,
+   "emissions": 450679901
+ },
+ {
+   "continent": "Oceania",
+   "year": 2013,
+   "emissions": 441040275
+ },
+ {
+   "continent": "Oceania",
+   "year": 2014,
+   "emissions": 449238205
+ },
+ {
+   "continent": "Oceania",
+   "year": 2015,
+   "emissions": 454010038
+ },
+ {
+   "continent": "Oceania",
+   "year": 2016,
+   "emissions": 465735657
+ },
+ {
+   "continent": "Oceania",
+   "year": 2017,
+   "emissions": 466026027
+ },
+ {
+   "continent": "Oceania",
+   "year": 2018,
+   "emissions": 467724583
+ },
+ {
+   "continent": "Oceania",
+   "year": 2019,
+   "emissions": 471189339
+ },
+ {
+   "continent": "Oceania",
+   "year": 2020,
+   "emissions": 444571198
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1884,
+   "emissions": 276188986
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1885,
+   "emissions": 280406263
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1886,
+   "emissions": 296260420
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1887,
+   "emissions": 317530121
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1888,
+   "emissions": 387186409
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1889,
+   "emissions": 346834818
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1890,
+   "emissions": 414160901
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1891,
+   "emissions": 441886407
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1892,
+   "emissions": 464918356
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1893,
+   "emissions": 469479973
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1894,
+   "emissions": 439768627
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1895,
+   "emissions": 493973873
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1896,
+   "emissions": 496110050
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1897,
+   "emissions": 515774860
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1898,
+   "emissions": 561765481
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1899,
+   "emissions": 645458850
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1900,
+   "emissions": 684366970
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1901,
+   "emissions": 746684552
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1902,
+   "emissions": 791569041
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1903,
+   "emissions": 923924101
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1904,
+   "emissions": 916872850
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1905,
+   "emissions": 1023576757
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1906,
+   "emissions": 1074778612
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1907,
+   "emissions": 1253116545
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1908,
+   "emissions": 1103991618
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1909,
+   "emissions": 1214811018
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1910,
+   "emissions": 1327425056
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1911,
+   "emissions": 1327461787
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1912,
+   "emissions": 1419666758
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1913,
+   "emissions": 1533790293
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1914,
+   "emissions": 1396792845
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1915,
+   "emissions": 1443461145
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1916,
+   "emissions": 1613035511
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1917,
+   "emissions": 1782872794
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1918,
+   "emissions": 1868648396
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1919,
+   "emissions": 1596982057
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1920,
+   "emissions": 1899938011
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1921,
+   "emissions": 1595440551
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1922,
+   "emissions": 1591500224
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1923,
+   "emissions": 2062964073
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1924,
+   "emissions": 1845231935
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1925,
+   "emissions": 1892376224
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1926,
+   "emissions": 2037959547
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1927,
+   "emissions": 1989282152
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1928,
+   "emissions": 1953447300
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1929,
+   "emissions": 2090042962
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1930,
+   "emissions": 1865619639
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1931,
+   "emissions": 1582574360
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1932,
+   "emissions": 1349391392
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1933,
+   "emissions": 1441233360
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1934,
+   "emissions": 1542101354
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1935,
+   "emissions": 1600188914
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1936,
+   "emissions": 1830039443
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1937,
+   "emissions": 1921476296
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1938,
+   "emissions": 1637415638
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1939,
+   "emissions": 1801314442
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1940,
+   "emissions": 2020176587
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1941,
+   "emissions": 2199466111
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1942,
+   "emissions": 2360895189
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1943,
+   "emissions": 2442572247
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1944,
+   "emissions": 2620135378
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1945,
+   "emissions": 2528287260
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1946,
+   "emissions": 2437620452
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1947,
+   "emissions": 2676599193
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1948,
+   "emissions": 2790213188
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1949,
+   "emissions": 2352740570
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1950,
+   "emissions": 2744654190
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1951,
+   "emissions": 2840649323
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1952,
+   "emissions": 2768178227
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1953,
+   "emissions": 2831916500
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1954,
+   "emissions": 2718204184
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1955,
+   "emissions": 2966226498
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1956,
+   "emissions": 3124030685
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1957,
+   "emissions": 3103255373
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1958,
+   "emissions": 3022679316
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1959,
+   "emissions": 3114883663
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1960,
+   "emissions": 3189112226
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1961,
+   "emissions": 3184349939
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1962,
+   "emissions": 3309376792
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1963,
+   "emissions": 3442290937
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1964,
+   "emissions": 3621031075
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1965,
+   "emissions": 3771440604
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1966,
+   "emissions": 3956276316
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1967,
+   "emissions": 4126962898
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1968,
+   "emissions": 4289367868
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1969,
+   "emissions": 4501679888
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1970,
+   "emissions": 4862418409
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1971,
+   "emissions": 4916075467
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1972,
+   "emissions": 5162109508
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1973,
+   "emissions": 5397122525
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1974,
+   "emissions": 5251285810
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1975,
+   "emissions": 5127968610
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1976,
+   "emissions": 5434560667
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1977,
+   "emissions": 5591028587
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1978,
+   "emissions": 5676990941
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1979,
+   "emissions": 5792359070
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1980,
+   "emissions": 5621038348
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1981,
+   "emissions": 5495519473
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1982,
+   "emissions": 5263629687
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1983,
+   "emissions": 5203537112
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1984,
+   "emissions": 5461843912
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1985,
+   "emissions": 5465180017
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1986,
+   "emissions": 5450086150
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1987,
+   "emissions": 5656466693
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1988,
+   "emissions": 5906086497
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1989,
+   "emissions": 6018100327
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1990,
+   "emissions": 5984512141
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1991,
+   "emissions": 5932717441
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1992,
+   "emissions": 6057230391
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1993,
+   "emissions": 6163882533
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1994,
+   "emissions": 6288259639
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1995,
+   "emissions": 6350638338
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1996,
+   "emissions": 6576288267
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1997,
+   "emissions": 6695065330
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1998,
+   "emissions": 6765937652
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 1999,
+   "emissions": 6861781942
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2000,
+   "emissions": 7107691709
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2001,
+   "emissions": 7014631472
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2002,
+   "emissions": 7068126101
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2003,
+   "emissions": 7183859119
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2004,
+   "emissions": 7282769072
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2005,
+   "emissions": 7330252917
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2006,
+   "emissions": 7265229406
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2007,
+   "emissions": 7376088584
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2008,
+   "emissions": 7158261808
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2009,
+   "emissions": 6670754218
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2010,
+   "emissions": 6875767079
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2011,
+   "emissions": 6771607912
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2012,
+   "emissions": 6580282771
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2013,
+   "emissions": 6714923529
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2014,
+   "emissions": 6753942686
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2015,
+   "emissions": 6612704117
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2016,
+   "emissions": 6471359556
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2017,
+   "emissions": 6412981891
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2018,
+   "emissions": 6588629908
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2019,
+   "emissions": 6460726238
+ },
+ {
+   "continent": "NorthAmerica",
+   "year": 2020,
+   "emissions": 5775158655
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1884,
+   "emissions": 3664
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1885,
+   "emissions": 3664
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1886,
+   "emissions": 7328
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1887,
+   "emissions": 1091872
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1888,
+   "emissions": 897680
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1889,
+   "emissions": 1762384
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1890,
+   "emissions": 1381328
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1891,
+   "emissions": 985616
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1892,
+   "emissions": 1450944
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1893,
+   "emissions": 1601168
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1894,
+   "emissions": 2033520
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1895,
+   "emissions": 2828608
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1896,
+   "emissions": 2879904
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1897,
+   "emissions": 2758992
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1898,
+   "emissions": 3176688
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1899,
+   "emissions": 3715296
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1900,
+   "emissions": 3165696
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1901,
+   "emissions": 6401008
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1902,
+   "emissions": 7379296
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1903,
+   "emissions": 7676080
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1904,
+   "emissions": 8665360
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1905,
+   "emissions": 9211296
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1906,
+   "emissions": 12329360
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1907,
+   "emissions": 12684768
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1908,
+   "emissions": 14886832
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1909,
+   "emissions": 13406576
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1910,
+   "emissions": 17246448
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1911,
+   "emissions": 19162720
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1912,
+   "emissions": 19990784
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1913,
+   "emissions": 21122960
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1914,
+   "emissions": 17195152
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1915,
+   "emissions": 15088352
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1916,
+   "emissions": 13619088
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1917,
+   "emissions": 10867424
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1918,
+   "emissions": 10999328
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1919,
+   "emissions": 12900944
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1920,
+   "emissions": 14641344
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1921,
+   "emissions": 14428832
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1922,
+   "emissions": 17162176
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1923,
+   "emissions": 19759952
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1924,
+   "emissions": 24332624
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1925,
+   "emissions": 26384464
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1926,
+   "emissions": 27381072
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1927,
+   "emissions": 30081440
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1928,
+   "emissions": 31427830
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1929,
+   "emissions": 34424330
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1930,
+   "emissions": 29122493
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1931,
+   "emissions": 25545738
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1932,
+   "emissions": 28960146
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1933,
+   "emissions": 32898529
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1934,
+   "emissions": 37257450
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1935,
+   "emissions": 41081411
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1936,
+   "emissions": 39596511
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1937,
+   "emissions": 50161731
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1938,
+   "emissions": 46272798
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1939,
+   "emissions": 47060380
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1940,
+   "emissions": 50716699
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1941,
+   "emissions": 50752568
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1942,
+   "emissions": 48166197
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1943,
+   "emissions": 48569506
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1944,
+   "emissions": 53866373
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1945,
+   "emissions": 54137152
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1946,
+   "emissions": 118776011
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1947,
+   "emissions": 62107071
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1948,
+   "emissions": 69504089
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1949,
+   "emissions": 70824633
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1950,
+   "emissions": 112577081
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1951,
+   "emissions": 131287165
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1952,
+   "emissions": 141474461
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1953,
+   "emissions": 140642950
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1954,
+   "emissions": 151056109
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1955,
+   "emissions": 170080405
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1956,
+   "emissions": 184182374
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1957,
+   "emissions": 192917955
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1958,
+   "emissions": 178754813
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1959,
+   "emissions": 196996205
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1960,
+   "emissions": 199162531
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1961,
+   "emissions": 201790400
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1962,
+   "emissions": 215670147
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1963,
+   "emissions": 219432748
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1964,
+   "emissions": 230217258
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1965,
+   "emissions": 240179708
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1966,
+   "emissions": 252098415
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1967,
+   "emissions": 267478130
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1968,
+   "emissions": 287793723
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1969,
+   "emissions": 311445861
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1970,
+   "emissions": 338088977
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1971,
+   "emissions": 346784136
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1972,
+   "emissions": 362787962
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1973,
+   "emissions": 392891071
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1974,
+   "emissions": 416698590
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1975,
+   "emissions": 412131333
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1976,
+   "emissions": 419568227
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1977,
+   "emissions": 435040931
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1978,
+   "emissions": 461425681
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1979,
+   "emissions": 494424507
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1980,
+   "emissions": 508467198
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1981,
+   "emissions": 489334209
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1982,
+   "emissions": 490651123
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1983,
+   "emissions": 485837506
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1984,
+   "emissions": 491926527
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1985,
+   "emissions": 502054215
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1986,
+   "emissions": 530170080
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1987,
+   "emissions": 557530046
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1988,
+   "emissions": 580553727
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1989,
+   "emissions": 580183777
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1990,
+   "emissions": 595613577
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1991,
+   "emissions": 603003964
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1992,
+   "emissions": 615051115
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1993,
+   "emissions": 650400713
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1994,
+   "emissions": 667658230
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1995,
+   "emissions": 699156081
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1996,
+   "emissions": 725574209
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1997,
+   "emissions": 768849399
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1998,
+   "emissions": 821328788
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 1999,
+   "emissions": 839542549
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2000,
+   "emissions": 821389541
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2001,
+   "emissions": 832246397
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2002,
+   "emissions": 847147909
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2003,
+   "emissions": 858232426
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2004,
+   "emissions": 867759092
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2005,
+   "emissions": 902003261
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2006,
+   "emissions": 912729584
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2007,
+   "emissions": 940748667
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2008,
+   "emissions": 1007520350
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2009,
+   "emissions": 991952053
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2010,
+   "emissions": 1082415226
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2011,
+   "emissions": 1103963494
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2012,
+   "emissions": 1159699662
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2013,
+   "emissions": 1218740221
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2014,
+   "emissions": 1230511065
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2015,
+   "emissions": 1204961439
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2016,
+   "emissions": 1164897792
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2017,
+   "emissions": 1156733992
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2018,
+   "emissions": 1091450086
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2019,
+   "emissions": 1065509648
+ },
+ {
+   "continent": "SouthAmerica",
+   "year": 2020,
+   "emissions": 994160327
+ },
+ {
+   "continent": "Africa",
+   "year": 1884,
+   "emissions": 21984
+ },
+ {
+   "continent": "Africa",
+   "year": 1885,
+   "emissions": 36640
+ },
+ {
+   "continent": "Africa",
+   "year": 1886,
+   "emissions": 47632
+ },
+ {
+   "continent": "Africa",
+   "year": 1887,
+   "emissions": 47632
+ },
+ {
+   "continent": "Africa",
+   "year": 1888,
+   "emissions": 80608
+ },
+ {
+   "continent": "Africa",
+   "year": 1889,
+   "emissions": 131904
+ },
+ {
+   "continent": "Africa",
+   "year": 1890,
+   "emissions": 296784
+ },
+ {
+   "continent": "Africa",
+   "year": 1891,
+   "emissions": 296784
+ },
+ {
+   "continent": "Africa",
+   "year": 1892,
+   "emissions": 479984
+ },
+ {
+   "continent": "Africa",
+   "year": 1893,
+   "emissions": 1799024
+ },
+ {
+   "continent": "Africa",
+   "year": 1894,
+   "emissions": 2432896
+ },
+ {
+   "continent": "Africa",
+   "year": 1895,
+   "emissions": 3337904
+ },
+ {
+   "continent": "Africa",
+   "year": 1896,
+   "emissions": 4257568
+ },
+ {
+   "continent": "Africa",
+   "year": 1897,
+   "emissions": 4777856
+ },
+ {
+   "continent": "Africa",
+   "year": 1898,
+   "emissions": 6049264
+ },
+ {
+   "continent": "Africa",
+   "year": 1899,
+   "emissions": 5517984
+ },
+ {
+   "continent": "Africa",
+   "year": 1900,
+   "emissions": 2330304
+ },
+ {
+   "continent": "Africa",
+   "year": 1901,
+   "emissions": 3909488
+ },
+ {
+   "continent": "Africa",
+   "year": 1902,
+   "emissions": 5825760
+ },
+ {
+   "continent": "Africa",
+   "year": 1903,
+   "emissions": 7895920
+ },
+ {
+   "continent": "Africa",
+   "year": 1904,
+   "emissions": 8910848
+ },
+ {
+   "continent": "Africa",
+   "year": 1905,
+   "emissions": 10262864
+ },
+ {
+   "continent": "Africa",
+   "year": 1906,
+   "emissions": 11717472
+ },
+ {
+   "continent": "Africa",
+   "year": 1907,
+   "emissions": 12930256
+ },
+ {
+   "continent": "Africa",
+   "year": 1908,
+   "emissions": 13402912
+ },
+ {
+   "continent": "Africa",
+   "year": 1909,
+   "emissions": 15385136
+ },
+ {
+   "continent": "Africa",
+   "year": 1910,
+   "emissions": 17411328
+ },
+ {
+   "continent": "Africa",
+   "year": 1911,
+   "emissions": 16865392
+ },
+ {
+   "continent": "Africa",
+   "year": 1912,
+   "emissions": 17953600
+ },
+ {
+   "continent": "Africa",
+   "year": 1913,
+   "emissions": 19606064
+ },
+ {
+   "continent": "Africa",
+   "year": 1914,
+   "emissions": 19551104
+ },
+ {
+   "continent": "Africa",
+   "year": 1915,
+   "emissions": 19606064
+ },
+ {
+   "continent": "Africa",
+   "year": 1916,
+   "emissions": 23255408
+ },
+ {
+   "continent": "Africa",
+   "year": 1917,
+   "emissions": 25343888
+ },
+ {
+   "continent": "Africa",
+   "year": 1918,
+   "emissions": 24724672
+ },
+ {
+   "continent": "Africa",
+   "year": 1919,
+   "emissions": 25442816
+ },
+ {
+   "continent": "Africa",
+   "year": 1920,
+   "emissions": 28051584
+ },
+ {
+   "continent": "Africa",
+   "year": 1921,
+   "emissions": 27985632
+ },
+ {
+   "continent": "Africa",
+   "year": 1922,
+   "emissions": 23969888
+ },
+ {
+   "continent": "Africa",
+   "year": 1923,
+   "emissions": 29044528
+ },
+ {
+   "continent": "Africa",
+   "year": 1924,
+   "emissions": 30631040
+ },
+ {
+   "continent": "Africa",
+   "year": 1925,
+   "emissions": 32184576
+ },
+ {
+   "continent": "Africa",
+   "year": 1926,
+   "emissions": 34437936
+ },
+ {
+   "continent": "Africa",
+   "year": 1927,
+   "emissions": 33840704
+ },
+ {
+   "continent": "Africa",
+   "year": 1928,
+   "emissions": 34770319
+ },
+ {
+   "continent": "Africa",
+   "year": 1929,
+   "emissions": 35801618
+ },
+ {
+   "continent": "Africa",
+   "year": 1930,
+   "emissions": 33695674
+ },
+ {
+   "continent": "Africa",
+   "year": 1931,
+   "emissions": 29463712
+ },
+ {
+   "continent": "Africa",
+   "year": 1932,
+   "emissions": 26622752
+ },
+ {
+   "continent": "Africa",
+   "year": 1933,
+   "emissions": 28491130
+ },
+ {
+   "continent": "Africa",
+   "year": 1934,
+   "emissions": 32539280
+ },
+ {
+   "continent": "Africa",
+   "year": 1935,
+   "emissions": 35909542
+ },
+ {
+   "continent": "Africa",
+   "year": 1936,
+   "emissions": 39015954
+ },
+ {
+   "continent": "Africa",
+   "year": 1937,
+   "emissions": 41844264
+ },
+ {
+   "continent": "Africa",
+   "year": 1938,
+   "emissions": 44013164
+ },
+ {
+   "continent": "Africa",
+   "year": 1939,
+   "emissions": 46852928
+ },
+ {
+   "continent": "Africa",
+   "year": 1940,
+   "emissions": 49649188
+ },
+ {
+   "continent": "Africa",
+   "year": 1941,
+   "emissions": 54023460
+ },
+ {
+   "continent": "Africa",
+   "year": 1942,
+   "emissions": 58822885
+ },
+ {
+   "continent": "Africa",
+   "year": 1943,
+   "emissions": 60119628
+ },
+ {
+   "continent": "Africa",
+   "year": 1944,
+   "emissions": 66632909
+ },
+ {
+   "continent": "Africa",
+   "year": 1945,
+   "emissions": 67527186
+ },
+ {
+   "continent": "Africa",
+   "year": 1946,
+   "emissions": 68159365
+ },
+ {
+   "continent": "Africa",
+   "year": 1947,
+   "emissions": 67934744
+ },
+ {
+   "continent": "Africa",
+   "year": 1948,
+   "emissions": 71733138
+ },
+ {
+   "continent": "Africa",
+   "year": 1949,
+   "emissions": 77323523
+ },
+ {
+   "continent": "Africa",
+   "year": 1950,
+   "emissions": 93452170
+ },
+ {
+   "continent": "Africa",
+   "year": 1951,
+   "emissions": 99862086
+ },
+ {
+   "continent": "Africa",
+   "year": 1952,
+   "emissions": 108882378
+ },
+ {
+   "continent": "Africa",
+   "year": 1953,
+   "emissions": 110796119
+ },
+ {
+   "continent": "Africa",
+   "year": 1954,
+   "emissions": 116156914
+ },
+ {
+   "continent": "Africa",
+   "year": 1955,
+   "emissions": 128058301
+ },
+ {
+   "continent": "Africa",
+   "year": 1956,
+   "emissions": 133509450
+ },
+ {
+   "continent": "Africa",
+   "year": 1957,
+   "emissions": 139953082
+ },
+ {
+   "continent": "Africa",
+   "year": 1958,
+   "emissions": 148304511
+ },
+ {
+   "continent": "Africa",
+   "year": 1959,
+   "emissions": 147910838
+ },
+ {
+   "continent": "Africa",
+   "year": 1960,
+   "emissions": 156640453
+ },
+ {
+   "continent": "Africa",
+   "year": 1961,
+   "emissions": 162078599
+ },
+ {
+   "continent": "Africa",
+   "year": 1962,
+   "emissions": 166426479
+ },
+ {
+   "continent": "Africa",
+   "year": 1963,
+   "emissions": 176448437
+ },
+ {
+   "continent": "Africa",
+   "year": 1964,
+   "emissions": 193763891
+ },
+ {
+   "continent": "Africa",
+   "year": 1965,
+   "emissions": 213784592
+ },
+ {
+   "continent": "Africa",
+   "year": 1966,
+   "emissions": 221261615
+ },
+ {
+   "continent": "Africa",
+   "year": 1967,
+   "emissions": 237257662
+ },
+ {
+   "continent": "Africa",
+   "year": 1968,
+   "emissions": 257600231
+ },
+ {
+   "continent": "Africa",
+   "year": 1969,
+   "emissions": 278139487
+ },
+ {
+   "continent": "Africa",
+   "year": 1970,
+   "emissions": 302942683
+ },
+ {
+   "continent": "Africa",
+   "year": 1971,
+   "emissions": 332205529
+ },
+ {
+   "continent": "Africa",
+   "year": 1972,
+   "emissions": 352242151
+ },
+ {
+   "continent": "Africa",
+   "year": 1973,
+   "emissions": 378426604
+ },
+ {
+   "continent": "Africa",
+   "year": 1974,
+   "emissions": 388872733
+ },
+ {
+   "continent": "Africa",
+   "year": 1975,
+   "emissions": 387838602
+ },
+ {
+   "continent": "Africa",
+   "year": 1976,
+   "emissions": 420868292
+ },
+ {
+   "continent": "Africa",
+   "year": 1977,
+   "emissions": 433857083
+ },
+ {
+   "continent": "Africa",
+   "year": 1978,
+   "emissions": 463281540
+ },
+ {
+   "continent": "Africa",
+   "year": 1979,
+   "emissions": 500008669
+ },
+ {
+   "continent": "Africa",
+   "year": 1980,
+   "emissions": 536509759
+ },
+ {
+   "continent": "Africa",
+   "year": 1981,
+   "emissions": 549389371
+ },
+ {
+   "continent": "Africa",
+   "year": 1982,
+   "emissions": 572603068
+ },
+ {
+   "continent": "Africa",
+   "year": 1983,
+   "emissions": 595441085
+ },
+ {
+   "continent": "Africa",
+   "year": 1984,
+   "emissions": 650285298
+ },
+ {
+   "continent": "Africa",
+   "year": 1985,
+   "emissions": 666683905
+ },
+ {
+   "continent": "Africa",
+   "year": 1986,
+   "emissions": 690699782
+ },
+ {
+   "continent": "Africa",
+   "year": 1987,
+   "emissions": 690794283
+ },
+ {
+   "continent": "Africa",
+   "year": 1988,
+   "emissions": 726048074
+ },
+ {
+   "continent": "Africa",
+   "year": 1989,
+   "emissions": 699220923
+ },
+ {
+   "continent": "Africa",
+   "year": 1990,
+   "emissions": 659294543
+ },
+ {
+   "continent": "Africa",
+   "year": 1991,
+   "emissions": 689025539
+ },
+ {
+   "continent": "Africa",
+   "year": 1992,
+   "emissions": 668677085
+ },
+ {
+   "continent": "Africa",
+   "year": 1993,
+   "emissions": 708858320
+ },
+ {
+   "continent": "Africa",
+   "year": 1994,
+   "emissions": 719622610
+ },
+ {
+   "continent": "Africa",
+   "year": 1995,
+   "emissions": 771994122
+ },
+ {
+   "continent": "Africa",
+   "year": 1996,
+   "emissions": 783254265
+ },
+ {
+   "continent": "Africa",
+   "year": 1997,
+   "emissions": 812903488
+ },
+ {
+   "continent": "Africa",
+   "year": 1998,
+   "emissions": 838022046
+ },
+ {
+   "continent": "Africa",
+   "year": 1999,
+   "emissions": 830397266
+ },
+ {
+   "continent": "Africa",
+   "year": 2000,
+   "emissions": 886561876
+ },
+ {
+   "continent": "Africa",
+   "year": 2001,
+   "emissions": 884168245
+ },
+ {
+   "continent": "Africa",
+   "year": 2002,
+   "emissions": 892574682
+ },
+ {
+   "continent": "Africa",
+   "year": 2003,
+   "emissions": 967219666
+ },
+ {
+   "continent": "Africa",
+   "year": 2004,
+   "emissions": 1036685536
+ },
+ {
+   "continent": "Africa",
+   "year": 2005,
+   "emissions": 1057341604
+ },
+ {
+   "continent": "Africa",
+   "year": 2006,
+   "emissions": 1090194921
+ },
+ {
+   "continent": "Africa",
+   "year": 2007,
+   "emissions": 1132293212
+ },
+ {
+   "continent": "Africa",
+   "year": 2008,
+   "emissions": 1181391104
+ },
+ {
+   "continent": "Africa",
+   "year": 2009,
+   "emissions": 1191035249
+ },
+ {
+   "continent": "Africa",
+   "year": 2010,
+   "emissions": 1218023292
+ },
+ {
+   "continent": "Africa",
+   "year": 2011,
+   "emissions": 1258708905
+ },
+ {
+   "continent": "Africa",
+   "year": 2012,
+   "emissions": 1253144211
+ },
+ {
+   "continent": "Africa",
+   "year": 2013,
+   "emissions": 1260316387
+ },
+ {
+   "continent": "Africa",
+   "year": 2014,
+   "emissions": 1363499747
+ },
+ {
+   "continent": "Africa",
+   "year": 2015,
+   "emissions": 1322735077
+ },
+ {
+   "continent": "Africa",
+   "year": 2016,
+   "emissions": 1356719492
+ },
+ {
+   "continent": "Africa",
+   "year": 2017,
+   "emissions": 1384372117
+ },
+ {
+   "continent": "Africa",
+   "year": 2018,
+   "emissions": 1385644894
+ },
+ {
+   "continent": "Africa",
+   "year": 2019,
+   "emissions": 1408478929
+ },
+ {
+   "continent": "Africa",
+   "year": 2020,
+   "emissions": 1326043539
+ },
+ {
+   "continent": "Europe",
+   "year": 1884,
+   "emissions": 714114256
+ },
+ {
+   "continent": "Europe",
+   "year": 1885,
+   "emissions": 716626785
+ },
+ {
+   "continent": "Europe",
+   "year": 1886,
+   "emissions": 715952931
+ },
+ {
+   "continent": "Europe",
+   "year": 1887,
+   "emissions": 743250804
+ },
+ {
+   "continent": "Europe",
+   "year": 1888,
+   "emissions": 787469107
+ },
+ {
+   "continent": "Europe",
+   "year": 1889,
+   "emissions": 824518449
+ },
+ {
+   "continent": "Europe",
+   "year": 1890,
+   "emissions": 862527964
+ },
+ {
+   "continent": "Europe",
+   "year": 1891,
+   "emissions": 892961894
+ },
+ {
+   "continent": "Europe",
+   "year": 1892,
+   "emissions": 879268189
+ },
+ {
+   "continent": "Europe",
+   "year": 1893,
+   "emissions": 854817752
+ },
+ {
+   "continent": "Europe",
+   "year": 1894,
+   "emissions": 927854281
+ },
+ {
+   "continent": "Europe",
+   "year": 1895,
+   "emissions": 952554435
+ },
+ {
+   "continent": "Europe",
+   "year": 1896,
+   "emissions": 996090638
+ },
+ {
+   "continent": "Europe",
+   "year": 1897,
+   "emissions": 1045580067
+ },
+ {
+   "continent": "Europe",
+   "year": 1898,
+   "emissions": 1079071410
+ },
+ {
+   "continent": "Europe",
+   "year": 1899,
+   "emissions": 1149405592
+ },
+ {
+   "continent": "Europe",
+   "year": 1900,
+   "emissions": 1205634433
+ },
+ {
+   "continent": "Europe",
+   "year": 1901,
+   "emissions": 1195102204
+ },
+ {
+   "continent": "Europe",
+   "year": 1902,
+   "emissions": 1195967404
+ },
+ {
+   "continent": "Europe",
+   "year": 1903,
+   "emissions": 1245050532
+ },
+ {
+   "continent": "Europe",
+   "year": 1904,
+   "emissions": 1268305471
+ },
+ {
+   "continent": "Europe",
+   "year": 1905,
+   "emissions": 1305575825
+ },
+ {
+   "continent": "Europe",
+   "year": 1906,
+   "emissions": 1347295601
+ },
+ {
+   "continent": "Europe",
+   "year": 1907,
+   "emissions": 1492693435
+ },
+ {
+   "continent": "Europe",
+   "year": 1908,
+   "emissions": 1517106467
+ },
+ {
+   "continent": "Europe",
+   "year": 1909,
+   "emissions": 1518710768
+ },
+ {
+   "continent": "Europe",
+   "year": 1910,
+   "emissions": 1538492133
+ },
+ {
+   "continent": "Europe",
+   "year": 1911,
+   "emissions": 1573984768
+ },
+ {
+   "continent": "Europe",
+   "year": 1912,
+   "emissions": 1632356078
+ },
+ {
+   "continent": "Europe",
+   "year": 1913,
+   "emissions": 1767217084
+ },
+ {
+   "continent": "Europe",
+   "year": 1914,
+   "emissions": 1573793464
+ },
+ {
+   "continent": "Europe",
+   "year": 1915,
+   "emissions": 1492706247
+ },
+ {
+   "continent": "Europe",
+   "year": 1916,
+   "emissions": 1561014950
+ },
+ {
+   "continent": "Europe",
+   "year": 1917,
+   "emissions": 1533266620
+ },
+ {
+   "continent": "Europe",
+   "year": 1918,
+   "emissions": 1394054050
+ },
+ {
+   "continent": "Europe",
+   "year": 1919,
+   "emissions": 1183761186
+ },
+ {
+   "continent": "Europe",
+   "year": 1920,
+   "emissions": 1373670782
+ },
+ {
+   "continent": "Europe",
+   "year": 1921,
+   "emissions": 1253114718
+ },
+ {
+   "continent": "Europe",
+   "year": 1922,
+   "emissions": 1397864742
+ },
+ {
+   "continent": "Europe",
+   "year": 1923,
+   "emissions": 1335672826
+ },
+ {
+   "continent": "Europe",
+   "year": 1924,
+   "emissions": 1541490880
+ },
+ {
+   "continent": "Europe",
+   "year": 1925,
+   "emissions": 1526763297
+ },
+ {
+   "continent": "Europe",
+   "year": 1926,
+   "emissions": 1308384783
+ },
+ {
+   "continent": "Europe",
+   "year": 1927,
+   "emissions": 1670139118
+ },
+ {
+   "continent": "Europe",
+   "year": 1928,
+   "emissions": 1676784845
+ },
+ {
+   "continent": "Europe",
+   "year": 1929,
+   "emissions": 1820241885
+ },
+ {
+   "continent": "Europe",
+   "year": 1930,
+   "emissions": 1721169046
+ },
+ {
+   "continent": "Europe",
+   "year": 1931,
+   "emissions": 1606566367
+ },
+ {
+   "continent": "Europe",
+   "year": 1932,
+   "emissions": 1492846009
+ },
+ {
+   "continent": "Europe",
+   "year": 1933,
+   "emissions": 1537176189
+ },
+ {
+   "continent": "Europe",
+   "year": 1934,
+   "emissions": 1682142368
+ },
+ {
+   "continent": "Europe",
+   "year": 1935,
+   "emissions": 1766803244
+ },
+ {
+   "continent": "Europe",
+   "year": 1936,
+   "emissions": 1876495299
+ },
+ {
+   "continent": "Europe",
+   "year": 1937,
+   "emissions": 2036583243
+ },
+ {
+   "continent": "Europe",
+   "year": 1938,
+   "emissions": 2045974976
+ },
+ {
+   "continent": "Europe",
+   "year": 1939,
+   "emissions": 2094155174
+ },
+ {
+   "continent": "Europe",
+   "year": 1940,
+   "emissions": 2227796437
+ },
+ {
+   "continent": "Europe",
+   "year": 1941,
+   "emissions": 2142812350
+ },
+ {
+   "continent": "Europe",
+   "year": 1942,
+   "emissions": 1996334644
+ },
+ {
+   "continent": "Europe",
+   "year": 1943,
+   "emissions": 2002949695
+ },
+ {
+   "continent": "Europe",
+   "year": 1944,
+   "emissions": 1889258345
+ },
+ {
+   "continent": "Europe",
+   "year": 1945,
+   "emissions": 1233343091
+ },
+ {
+   "continent": "Europe",
+   "year": 1946,
+   "emissions": 1656558714
+ },
+ {
+   "continent": "Europe",
+   "year": 1947,
+   "emissions": 1907210680
+ },
+ {
+   "continent": "Europe",
+   "year": 1948,
+   "emissions": 2055523221
+ },
+ {
+   "continent": "Europe",
+   "year": 1949,
+   "emissions": 2242201278
+ },
+ {
+   "continent": "Europe",
+   "year": 1950,
+   "emissions": 2382639410
+ },
+ {
+   "continent": "Europe",
+   "year": 1951,
+   "emissions": 2629480210
+ },
+ {
+   "continent": "Europe",
+   "year": 1952,
+   "emissions": 2713203162
+ },
+ {
+   "continent": "Europe",
+   "year": 1953,
+   "emissions": 2790667099
+ },
+ {
+   "continent": "Europe",
+   "year": 1954,
+   "emissions": 2969121271
+ },
+ {
+   "continent": "Europe",
+   "year": 1955,
+   "emissions": 3232661794
+ },
+ {
+   "continent": "Europe",
+   "year": 1956,
+   "emissions": 3444107828
+ },
+ {
+   "continent": "Europe",
+   "year": 1957,
+   "emissions": 3592022483
+ },
+ {
+   "continent": "Europe",
+   "year": 1958,
+   "emissions": 3630382366
+ },
+ {
+   "continent": "Europe",
+   "year": 1959,
+   "emissions": 3711830506
+ },
+ {
+   "continent": "Europe",
+   "year": 1960,
+   "emissions": 3961922835
+ },
+ {
+   "continent": "Europe",
+   "year": 1961,
+   "emissions": 4106401353
+ },
+ {
+   "continent": "Europe",
+   "year": 1962,
+   "emissions": 4333285839
+ },
+ {
+   "continent": "Europe",
+   "year": 1963,
+   "emissions": 4607005636
+ },
+ {
+   "continent": "Europe",
+   "year": 1964,
+   "emissions": 4836004626
+ },
+ {
+   "continent": "Europe",
+   "year": 1965,
+   "emissions": 4978519865
+ },
+ {
+   "continent": "Europe",
+   "year": 1966,
+   "emissions": 5149149081
+ },
+ {
+   "continent": "Europe",
+   "year": 1967,
+   "emissions": 5262922990
+ },
+ {
+   "continent": "Europe",
+   "year": 1968,
+   "emissions": 5508267150
+ },
+ {
+   "continent": "Europe",
+   "year": 1969,
+   "emissions": 5808330574
+ },
+ {
+   "continent": "Europe",
+   "year": 1970,
+   "emissions": 6090346255
+ },
+ {
+   "continent": "Europe",
+   "year": 1971,
+   "emissions": 6312748240
+ },
+ {
+   "continent": "Europe",
+   "year": 1972,
+   "emissions": 6541128889
+ },
+ {
+   "continent": "Europe",
+   "year": 1973,
+   "emissions": 6833578783
+ },
+ {
+   "continent": "Europe",
+   "year": 1974,
+   "emissions": 6851163858
+ },
+ {
+   "continent": "Europe",
+   "year": 1975,
+   "emissions": 6889733011
+ },
+ {
+   "continent": "Europe",
+   "year": 1976,
+   "emissions": 7264646559
+ },
+ {
+   "continent": "Europe",
+   "year": 1977,
+   "emissions": 7320281269
+ },
+ {
+   "continent": "Europe",
+   "year": 1978,
+   "emissions": 7552390389
+ },
+ {
+   "continent": "Europe",
+   "year": 1979,
+   "emissions": 7732355204
+ },
+ {
+   "continent": "Europe",
+   "year": 1980,
+   "emissions": 7735701430
+ },
+ {
+   "continent": "Europe",
+   "year": 1981,
+   "emissions": 7453971675
+ },
+ {
+   "continent": "Europe",
+   "year": 1982,
+   "emissions": 7394330536
+ },
+ {
+   "continent": "Europe",
+   "year": 1983,
+   "emissions": 7400813605
+ },
+ {
+   "continent": "Europe",
+   "year": 1984,
+   "emissions": 7451776191
+ },
+ {
+   "continent": "Europe",
+   "year": 1985,
+   "emissions": 7775661001
+ },
+ {
+   "continent": "Europe",
+   "year": 1986,
+   "emissions": 7788329538
+ },
+ {
+   "continent": "Europe",
+   "year": 1987,
+   "emissions": 7812748002
+ },
+ {
+   "continent": "Europe",
+   "year": 1988,
+   "emissions": 7846139038
+ },
+ {
+   "continent": "Europe",
+   "year": 1989,
+   "emissions": 7813968314
+ },
+ {
+   "continent": "Europe",
+   "year": 1990,
+   "emissions": 8015588993
+ },
+ {
+   "continent": "Europe",
+   "year": 1991,
+   "emissions": 7714385696
+ },
+ {
+   "continent": "Europe",
+   "year": 1992,
+   "emissions": 7078817583
+ },
+ {
+   "continent": "Europe",
+   "year": 1993,
+   "emissions": 6791984195
+ },
+ {
+   "continent": "Europe",
+   "year": 1994,
+   "emissions": 6433785144
+ },
+ {
+   "continent": "Europe",
+   "year": 1995,
+   "emissions": 6415240923
+ },
+ {
+   "continent": "Europe",
+   "year": 1996,
+   "emissions": 6464354025
+ },
+ {
+   "continent": "Europe",
+   "year": 1997,
+   "emissions": 6258128350
+ },
+ {
+   "continent": "Europe",
+   "year": 1998,
+   "emissions": 6232186994
+ },
+ {
+   "continent": "Europe",
+   "year": 1999,
+   "emissions": 6147588627
+ },
+ {
+   "continent": "Europe",
+   "year": 2000,
+   "emissions": 6149033673
+ },
+ {
+   "continent": "Europe",
+   "year": 2001,
+   "emissions": 6275941415
+ },
+ {
+   "continent": "Europe",
+   "year": 2002,
+   "emissions": 6241655552
+ },
+ {
+   "continent": "Europe",
+   "year": 2003,
+   "emissions": 6387841133
+ },
+ {
+   "continent": "Europe",
+   "year": 2004,
+   "emissions": 6419130511
+ },
+ {
+   "continent": "Europe",
+   "year": 2005,
+   "emissions": 6410329615
+ },
+ {
+   "continent": "Europe",
+   "year": 2006,
+   "emissions": 6509434302
+ },
+ {
+   "continent": "Europe",
+   "year": 2007,
+   "emissions": 6457352334
+ },
+ {
+   "continent": "Europe",
+   "year": 2008,
+   "emissions": 6384572255
+ },
+ {
+   "continent": "Europe",
+   "year": 2009,
+   "emissions": 5871171361
+ },
+ {
+   "continent": "Europe",
+   "year": 2010,
+   "emissions": 6098534908
+ },
+ {
+   "continent": "Europe",
+   "year": 2011,
+   "emissions": 6023668149
+ },
+ {
+   "continent": "Europe",
+   "year": 2012,
+   "emissions": 5972231655
+ },
+ {
+   "continent": "Europe",
+   "year": 2013,
+   "emissions": 5815574828
+ },
+ {
+   "continent": "Europe",
+   "year": 2014,
+   "emissions": 5589757324
+ },
+ {
+   "continent": "Europe",
+   "year": 2015,
+   "emissions": 5594384221
+ },
+ {
+   "continent": "Europe",
+   "year": 2016,
+   "emissions": 5590252902
+ },
+ {
+   "continent": "Europe",
+   "year": 2017,
+   "emissions": 5620306625
+ },
+ {
+   "continent": "Europe",
+   "year": 2018,
+   "emissions": 5593057381
+ },
+ {
+   "continent": "Europe",
+   "year": 2019,
+   "emissions": 5430238970
+ },
+ {
+   "continent": "Europe",
+   "year": 2020,
+   "emissions": 4946034489
+ }
+]

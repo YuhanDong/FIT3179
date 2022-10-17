@@ -1,18 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-    <script src="vega_lite_vis.js"></script>
-    <title>FIT3179 Assignment 2 </title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  <script src="vega_lite_vis.js"></script>
+  <title>Global Emissions </title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:ital,wght@0,300;1,100&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+  integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+
 </head>
 <body>
-    <h1>Co2 Emissions by Country</h1>
-    <div id="choropleth">
+
+  <div class="page">
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>Global Emissions</h1>
+        <p>Some sort of subtitle about emissions.</p>
+      </div>
     </div>
-</body>
+  </div>
+
+  <div class="pure-g">
+    <div class="pure-u-2-3">
+      <div id="time" class="vis-container"></div>
+    </div>
+    <div class="pure-u-1-3">
+      <div class="description description-right">
+        <h2>How much has there been?</h2>
+        <p>Humans have been releasing greenhouse gases into the atmosphere for a very long time. However it was not 
+          until the dawn of the industrial revolution in the mid-19th century where the rate of emissions around the
+          world started increasing drastically. 
+        </p>
+        <p>This is illustrated by the chart on the left hand side where the rise of industrialisation is clearly
+           shown by the corresponding increase in greenhouse gases being emitted over time, primarily in the last 50
+           years where greenhouse gas emissions have increased by roughly 90%. Interestingly, there was a decline of 
+           almost 5% in 2020 due to the pandemic diminishing demand for fossil fuel energy sources but this is projected
+           to rebound as the world returns normal operation.
+        </p>
+        <p>
+           This is largely due to the development of digital and personal computing and the internet gave way to the 
+           third industrial revolution. Internet and computer technology, international air travel and satellite 
+           communications were catalysts to globalization and there was a consequent growth in multinational companies
+           moving their manufacturing to asian countries. That being said, it is important to note that population 
+           growth tends to also increase emissions due to an increase in consumption which may make some continents
+           appear to be causing greater emissions than others where in reality emissions per capita or land use 
+           may indicate otherwise. 
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- GDP + Capita -->
+  <div class="pure-g">
+    <div class="pure-u-1-3">
+      <div id="capita" class="vis-container"></div>
+    </div>
+    <div class="pure-u-1-3">
+      <div class="description description-right">
+        <h2>What is GDP and Capita's effect on emissions?</h2>
+        <p>Statistics show that there is a clear link between GDP and emissions. According to the scatter plot to the
+          right which looks at GDP vs emissions (per capita), there is a positive trend between a country's GDP and their 
+          emissions. The top 20 global economies account for more than 78% of global greenhouse gas emissions. Material
+          footprint per capita is more than 10 times higher in high-income countries than that of low income countries.
+        </p>
+      </div>
+    </div>
+    <div class="pure-u-1-3">
+      <div id="gdp" class="vis-container"></div>
+    </div>
+    
+  </div>
+
+  <!-- Gas + Sector -->
+  <div class="pure-g">
+    <div class="pure-u-1-3" style="width: 33.3%">
+      <div class="description description-left">
+        <h2>What's it all coming from?</h2>
+        <p>According to the National Greenhouse and Energy Reporting (NGER), the greenhouse gases are carbon dioxide,
+          methane, nitrous oxide and various Fluorinated gases (including hydrofluorocarbons, perfluorocarbons, sulphur
+          hexafluoride, nitrogen trifluoride etc.). The bar chart to the right indicates how much of each gas is emitted
+          around the world as a percentage of total greenhouse gas emissions. It is clear that carbon dioxide, Co2, is
+          the most abundant greenhouse gas. This is primarily due to the burning of fossil fuels which is the predominant
+          way of generating energy in this day and age. The pie chart to the far right indicates emission contribution as
+          a percentage from each sector. Agriculture, electricity & heat production and industry (24%, 25%, 21% respectively),
+          are the largest contributors to emissions and this makes sense as those sectors by nature are utilizing the most
+          fossil fuels. 
+        </p>
+      </div>
+    </div>
+    <div class="pure-u-1-3">
+      <div id="gas" class="vis-container"></div>
+    </div>
+    <div class="pure-u-1-3" style="width: 31.5%;">
+      <div id="sector" class="vis-container"></div>
+    </div>
+  </div>
+
 </html>

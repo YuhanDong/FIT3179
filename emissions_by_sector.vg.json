@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Sector Contribution" },
+    "width": 250,
+    "height": 230,
+    "config": { "style": { "cell": { "stroke": "transparent" } } },
+    "data": {
+        "values":[
+            {"Sector": "Buildings", "Value": 6},
+            {"Sector": "Electricity & Heat Production", "Value": 25},
+            {"Sector": "Agriculture, Forestry & Other Land Use", "Value": 24},
+            {"Sector": "Transportation", "Value": 14},
+            {"Sector": "Industry", "Value": 21},
+            {"Sector": "Other Energy", "Value": 10}
+        ]
+    },
+    "mark": {"type": "arc", "tooltip": true},
+    "encoding": {
+        "color": { "field": "Sector", "type": "nominal" },
+        "theta": { "field": "Value", "type": "quantitative" }
+    }
+}

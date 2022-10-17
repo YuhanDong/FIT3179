@@ -1,0 +1,14 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Global Emissions by Gas" },
+    "width": 500,
+    "height": 200,
+    "data": {
+        "url": "data/Global_emissions_by_gas.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+        "y": { "field": "gas", "type": "nominal" },
+        "x": { "field": "percentage", "type": "quantitative" }
+    }
+}

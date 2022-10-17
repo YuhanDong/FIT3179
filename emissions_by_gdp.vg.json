@@ -1,0 +1,15 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Country Emissions vs GDP" },
+    "width": 450,
+    "height": 300,
+    "data": {
+        "url": "data/gdp_emissions_2015.csv"
+    },
+    "mark": {"type": "point", "tooltip": {"content": "encoding"}},
+    "encoding": {
+        "y": { "field": "Emissions", "type": "quantitative" },
+        "x": { "field": "GDP", "type": "quantitative" },
+        "tooltip": {"field":"Country", "type":"nominal"}
+    }
+}
